@@ -26,13 +26,13 @@ This program requires the **pdftk** dependency, a command-line tool for working 
   sudo apt install pdftk
 ```
 
- Download the AppImage from the [latest release]("link")
+ Download the AppImage from the [latest release](https://github.com/YoanMen/PDF_Divider/releases/tag/latest)
 
 ## Windows
 
 Download [pdftk-server](https://www.pdflabs.com/tools/pdftk-server/) and install it in the default installation path.
 
-Download files for Windows from the [latest release]("link")
+Download files for Windows from the [latest release](https://github.com/YoanMen/PDF_Divider/releases/tag/latest)
 
 
 
